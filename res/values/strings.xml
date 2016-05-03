@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Androideg-speech</string>
+    <string name="title_activity_main">语音识别</string>
+    <string name="title_activity_display_message">识别结果</string>
+    <string name="button_speak">请讲话</string>
+    <string name="menu_settings">设置</string>
+
+</resources>
